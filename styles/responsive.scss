@@ -104,7 +104,9 @@
 
   .banner {
     margin-bottom: 50px;
+    border-radius: 6px;
     &-message {
+      border-radius: 6px;
       &-text {
         font-size: 25px !important;
       }
@@ -220,8 +222,10 @@
 
   .banner {
     height: 50vw;
+    border-radius: 4px;
     &-message {
       height: 40vw;
+      border-radius: 4px;
     }
   }
 

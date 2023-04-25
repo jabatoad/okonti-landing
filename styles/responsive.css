@@ -94,6 +94,10 @@
   }
   .banner {
     margin-bottom: 50px;
+    border-radius: 6px;
+  }
+  .banner-message {
+    border-radius: 6px;
   }
   .banner-message-text {
     font-size: 25px !important;
@@ -187,9 +191,11 @@
   }
   .banner {
     height: 50vw;
+    border-radius: 4px;
   }
   .banner-message {
     height: 40vw;
+    border-radius: 4px;
   }
   .advantages-group-headline {
     font-size: 16px;
